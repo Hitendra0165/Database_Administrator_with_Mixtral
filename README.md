@@ -54,6 +54,15 @@ Contributions are welcome! If you encounter any bugs or have suggestions for imp
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+##Output
+![Alt text](https://github.com/Hitendra0165/Database_Administrator_with_Mixtral/blob/main/Full%20scr.png)
+
+![Alt text](https://github.com/Hitendra0165/Database_Administrator_with_Mixtral/blob/main/Screenshot%20(141).png)
+
+
 ```
 
 Replace `"YOUR_API_KEY_HERE"` with your actual Groq API key, and update any other placeholders as needed. Additionally, make sure to provide accurate instructions for installation, usage, and configuration based on your project's specifics.
+
+
