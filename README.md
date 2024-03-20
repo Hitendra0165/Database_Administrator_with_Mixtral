@@ -1,5 +1,3 @@
-Below is a basic template for a GitHub README.md file for the provided Python script:
-
 ```markdown
 # Database Administrator with Mixtral ft. Groq
 
